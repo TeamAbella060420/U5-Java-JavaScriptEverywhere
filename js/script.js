@@ -1,5 +1,8 @@
 
-alert("Hello, World!");
-console.log("Hello from the console.");
-alert("Thanks for visiting");
-document.write("<h1>Welcome to my webpage.</h1>");
+alert("Warning! This message will self-destruct in");
+alert("3...");
+alert("2...");
+alert("1...");
+
+document.querySelector("h1").textContent = "🔥BOOM!🔥";
+console.log("Message destroyed!");
