@@ -4,4 +4,4 @@
     alert() – MDN
     console.log() – MDN
     document.write() – MDN
-Learn how and where to add JavaScript to a web page.
+Learned how and where to add JavaScript to a web page.
